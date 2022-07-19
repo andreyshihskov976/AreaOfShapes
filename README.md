@@ -14,4 +14,6 @@ SQL запрос для выбора всех пар «Имя продукта �
 
 **SELECT ProductName, CategoryName**
 
-**FROM Products LEFT JOIN Categories ON Products.CategoryID = Categories.CategoryID;**
+**FROM Products LEFT JOIN Categories**
+
+**ON Products.CategoryID = Categories.CategoryID;**
