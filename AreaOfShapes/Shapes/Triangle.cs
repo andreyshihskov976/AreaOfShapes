@@ -10,7 +10,14 @@ namespace AreaOfShapes.Shapes
         private readonly Lazy<bool> _isRightTriangle;
 		public bool IsRightTriangle => _isRightTriangle.Value;
 
-        public Triangle(int sideA, int sideB, int sideC)
+        public Triangle()
+        {
+            SideA = default(double);
+            SideB = default(double);
+            SideC = default(double);
+        }
+
+        public Triangle(double sideA, double sideB, double sideC)
         {
 
             if (sideA < Constants.CalculationAccuracy)

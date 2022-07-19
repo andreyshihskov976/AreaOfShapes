@@ -6,6 +6,11 @@ namespace AreaOfShapes.Shapes
     {
         public double Radius { get; set; }
 
+        public Circle()
+        {
+            Radius = default(double);
+        }
+
         public Circle(double radius)
         {
             if (radius - Constants.MinRadius < Constants.CalculationAccuracy)
