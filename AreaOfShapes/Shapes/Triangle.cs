@@ -15,6 +15,8 @@ namespace AreaOfShapes.Shapes
             SideA = default(double);
             SideB = default(double);
             SideC = default(double);
+
+            _isRightTriangle = new Lazy<bool>(GetIsRightTriangle);
         }
 
         public Triangle(double sideA, double sideB, double sideC)
