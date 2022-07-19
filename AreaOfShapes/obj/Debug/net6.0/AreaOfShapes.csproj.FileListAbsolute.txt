@@ -1,0 +1,12 @@
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/bin/Debug/net6.0/AreaOfShapes.deps.json
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/bin/Debug/net6.0/AreaOfShapes.dll
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/bin/Debug/net6.0/AreaOfShapes.pdb
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.csproj.AssemblyReference.cache
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.AssemblyInfoInputs.cache
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.AssemblyInfo.cs
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.csproj.CoreCompileInputs.cache
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.dll
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/refint/AreaOfShapes.dll
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/AreaOfShapes.pdb
+/Users/andreyshishkov/Documents/Job finding/AreaOfShapes/AreaOfShapes/obj/Debug/net6.0/ref/AreaOfShapes.dll
